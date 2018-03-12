@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520321661 source:d:\eryk\studia\algebra\complex-calculator\main.cpp
+	<iostream>
+	<cmath>
+
